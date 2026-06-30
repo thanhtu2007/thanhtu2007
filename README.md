@@ -31,6 +31,7 @@ I am an AI student who is learning programming, machine learning, and how to bui
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
 ---
@@ -50,5 +51,4 @@ I am an AI student who is learning programming, machine learning, and how to bui
 <a href="https://hackerrank.com/ThanhTu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ThanhTu" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/thanhtu1601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thanhtu1601" height="30" width="40" /></a>
 <a href="https://leetcode.com/thanhtu_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thanhtu_07" height="30" width="40" /></a>
-<a href="https://discord.gg/Thanh Tú" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Thanh Tú" height="30" width="40" /></a>
 </p>
