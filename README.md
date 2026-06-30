@@ -2,6 +2,7 @@
 ---
 
 ## About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhtu2007&label=Profile views&color=0e75b6&style=flat" alt="thanhtu2007" /> </p>
 
 I am an AI student who is learning programming, machine learning, and how to build practical projects step by step.My current focus is improving my coding foundation, writing clean documentation, and building beginner-friendly AI projects.
 
